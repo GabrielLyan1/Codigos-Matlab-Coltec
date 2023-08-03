@@ -1,0 +1,1 @@
+% Gabriel Lyan Barbosa de Assis   % 205 - A% 01/07/2021% Menu Questao 3 - primeira avaliacao   printf("------------------Escolha a opcao desejada ------------------\n\n");printf("(1) Questao 1 - triangulo de numeros\n");printf("(2) Questao 2 - Somatório\n");printf("(3) Questao 3 - Polinômio\n");printf("(4) Sair\n");
